@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+}
+
+.btn-delete-toto {
+    float: right;
+    font-weight: bold;
+    font-size: 15px;
+    padding: 5px 20px;
+}
+
+.btn-update-toto {
+    float: right;
+    font-weight: bold;
+    font-size: 15px;
+    padding: 5px 20px;
+}
+
+.invalid-invisible {
+    display: none;
+}
